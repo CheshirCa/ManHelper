@@ -1,0 +1,1 @@
+d913a22fcf86ad9bb2a72bb1ea0c87b1950e0b7aaa5ca6cb611ba928311b8048  ManHelper-0.5.4-windows-x64.zip
