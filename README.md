@@ -1,5 +1,8 @@
 # ManHelper
 
+![ManHelper popup](docs/windows/popup.jpg)
+![ManHelper full](docs/windows/full.jpg)
+
 ManHelper is an offline Windows companion for PuTTY and KiTTY. It finds the
 Linux command copied from a terminal and shows the corresponding manual page
 from a read-only SQLite database. The same repository contains the Linux
