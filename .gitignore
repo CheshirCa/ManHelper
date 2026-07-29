@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Windows builds and logs
+build/
+dist/
+*.log
+windows/validator/vendor/sqlite/*.obj
+windows/validator/vendor/sqlite/*.lib
+
+# Local databases and GitHub Release assets
+*.sqlite
+release-assets/*.zip
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
